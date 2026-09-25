@@ -1,4 +1,11 @@
 # The "Map Machine" ***(Karttapullautin)***
+
+WIP fork of [karttapullautin/karttapullautin](https://github.com/karttapullautin/karttapullautin) — for vegetation vector export.
+
+---
+
+*The rest of this file is the upstream README (unchanged).*
+
 ## What it this?
 
 The rust-lang source code of the map generator application that go through the alias ***pullauta*** which is available as binary executable for Linux, Mac and Windows (find attachment in each releases).
